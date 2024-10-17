@@ -1,0 +1,30 @@
+.top-text{
+    letter-spacing: 3px;
+}
+.navbar-brand img {
+    width: 150px;
+    height: auto;
+}
+.navbar-toggler-icon {
+    background-image: none; /* Remove default background image */
+}
+.navbar-toggler:after {
+    content: "\f0c9"; /* Font Awesome icon code for hamburger menu */
+    font-family: "Font Awesome 5 Free"; /* Use Font Awesome for the icon */
+    font-weight: 900; /* Use the solid style */
+    font-size: 1.5rem; /* Adjust icon size */
+    color: white; /* Set icon color to white */
+}
+.profile{
+    margin-left: 600px;
+}
+.btn{
+        border-radius: 0; /* Remove rounding from edges */
+}
+.fa-instagram {
+    color: white;
+}
+.icon{
+    margin-left:600px;
+    gap:30px;
+}
